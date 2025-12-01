@@ -2,4 +2,17 @@
 
 Design system and UI guidelines for Revion OS.
 
-Includes layout rules, color tokens, typography, and reusable components for a dark, minimal, context-first interface.
+This repository defines the color tokens, spacing rules, typography, and layout principles used across all Revion interfaces.
+
+## Tokens
+Located under `tokens/`:
+- `colors.json`
+- `typography.json`
+- `spacing.json`
+
+## Guidelines
+- Dark, minimal, context-first
+- Soft gradients and low-noise surfaces
+- Focus on clarity and functional contrast
+
+MIT License
